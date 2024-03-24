@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Java",
+      "id": 1
+    },
+    {
+      "title": "Rust",
+      "id": 2
+    },
+    {
+      "title": "Python",
+      "id": 3
+    }
+  ]
+}
